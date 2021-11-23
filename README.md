@@ -1,2 +1,2 @@
 # Chrome Extension
-1)-popup extension
+1)-popup extension (used as reminder)
